@@ -3,7 +3,7 @@ vagrantfile:
     vm:
         provider:
             local:
-                box: puphpet/ubuntu1604-x64
+                box: ubuntu/trusty64
                 box_url: 'false'
                 box_version: '0'
                 chosen_virtualizer: virtualbox
